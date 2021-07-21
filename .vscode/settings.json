@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.md": "latex"
+    },
+    "editor.formatOnSave": true,
+}
