@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Decision Tree.md",
+            "file": "Gaussian Distribution.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "Gaussian Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a7f32293eeb24663",
   "lastOpenFiles": [
-    "Decision Tree.md",
-    "decisiontreeentropy.png",
-    "Bayesian Network.md",
-    "Untitled.md",
-    "Bayesian Statistics.md",
-    "Conditional Independence.md",
-    "Covariance.md",
-    "Degrees of Freedom.md",
     "Gaussian Distribution.md",
-    "Mahalanobis Distance.md"
+    "Mahalanobis Distance.md",
+    "haha.md",
+    "Homeomorphism.md",
+    "haha!Manifold.md",
+    "Degrees of Freedom.md",
+    "Decision Tree.md",
+    "Untitled.md",
+    "CS/Computer Architecture.md",
+    "decisiontreeentropy.png"
   ]
 }
