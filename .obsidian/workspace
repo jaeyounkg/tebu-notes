@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gaussian Distribution.md",
+            "file": "Bayesian Network.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199
+    "width": 250.51218795776367
   },
   "right": {
     "id": "855f8e0452c9e875",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Distribution.md",
+                "file": "Bayesian Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "a7f32293eeb24663",
   "lastOpenFiles": [
-    "Gaussian Distribution.md",
-    "Mahalanobis Distance.md",
-    "haha.md",
-    "Homeomorphism.md",
-    "haha!Manifold.md",
-    "Degrees of Freedom.md",
+    "Bayesian Network.md",
+    "Bayesian Statistics.md",
+    "Conditional Independence.md",
+    "Covariance.md",
     "Decision Tree.md",
+    "decisiontreeentropy.png",
+    "Untitled 1.md",
     "Untitled.md",
-    "CS/Computer Architecture.md",
-    "decisiontreeentropy.png"
+    "Homeomorphism.md",
+    "Mahalanobis Distance.md"
   ]
 }
