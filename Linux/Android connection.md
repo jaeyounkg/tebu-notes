@@ -1,0 +1,1 @@
+Have to install `libmtp*` libraries (`libmtp-runtime`, `libmtp-common`, `libmtp9`, `libmtp-dev`)

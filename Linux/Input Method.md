@@ -1,0 +1,2 @@
+An **input method framework** is designed to serve as a daemon and handle user input events, output the result to target applications or layers.
+An **input method engine** is a program to analyze inputed characters and calculate a list of probably results, then send the results to their hosted input method framework to complete the reaction with users and applications.
