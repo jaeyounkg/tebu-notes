@@ -7,8 +7,12 @@
         "id": "88d7c0b322ac6696",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Slack.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Slack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,13 @@
   },
   "active": "88d7c0b322ac6696",
   "lastOpenFiles": [
-    "Linux/Kubuntu/Untitled.md",
+    "Linux/Slack.md",
+    "Linux/Android connection.md",
+    "Linux/Input Method.md",
     "Linux/Ubuntu/Audio stuff.md",
+    "Linux/Kubuntu/Untitled.md",
     "Linux/KDE/Per screen scaling.md",
     "Linux/Wally.md",
-    "Linux/Input Method.md",
-    "Linux/Android connection.md",
-    "Linux/Slack.md",
     "Programming/Haskell/Formatters.md",
     "Programming/Haskell/Untitled.md",
     "Programming/Data Haskell.md"
