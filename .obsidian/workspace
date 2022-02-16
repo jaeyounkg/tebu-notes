@@ -7,11 +7,8 @@
         "id": "88d7c0b322ac6696",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux/Kubuntu/Audio stuff.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Kubuntu/Audio stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +85,14 @@
   "active": "88d7c0b322ac6696",
   "lastOpenFiles": [
     "Linux/Kubuntu/Untitled.md",
+    "Linux/Ubuntu/Audio stuff.md",
+    "Linux/KDE/Per screen scaling.md",
+    "Linux/Wally.md",
+    "Linux/Input Method.md",
     "Linux/Android connection.md",
+    "Linux/Slack.md",
     "Programming/Haskell/Formatters.md",
     "Programming/Haskell/Untitled.md",
-    "Programming/Data Haskell.md",
-    "Programming/Untitled.md",
-    "Linux/Wally.md",
-    "Linux/Untitled.md",
-    "Linux/Input Method.md",
-    "Linux/Kubuntu/Per screen scaling.md"
+    "Programming/Data Haskell.md"
   ]
 }
