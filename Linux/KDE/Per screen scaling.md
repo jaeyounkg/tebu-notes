@@ -1,1 +1,1 @@
-Find `ScreenScaleFactors` in `~/.config/kdeglobals`
+X11 doesn't support this

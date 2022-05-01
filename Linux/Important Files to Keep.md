@@ -4,3 +4,4 @@
 - Mozc user dictionary
 - KDE system settings?
 - Konsole, Okular settings?
+* `latte-dock` setup?

@@ -25,3 +25,5 @@ To use the script:
 3.  Click on 'Apps Script'
 4.  Paste the code
 5.  Use for example this code in a cell `=DEEPL($A1; "en"; "de")`
+
+[haha](www.naver.com) 
