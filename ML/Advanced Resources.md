@@ -2,6 +2,13 @@
 - [Flow-based Deep Generative Models](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
 - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 
+# ASR
+## Basics
+- [(Distill) CTC loss](https://distill.pub/2017/ctc/)
+
+## Wav2Vec 2.0
+- [Wav2vec 2.0 explained](https://towardsdatascience.com/wav2vec-2-0-a-framework-for-self-supervised-learning-of-speech-representations-7d3728688cae#:~:text=Wav2Vec%202.0%20uses%20a%20self,required%20for%20getting%20satisfying%20results.)
+
 # NLP 
 ## Basics
 - [Word2Vecを理解する](https://qiita.com/g-k/items/69afa87c73654af49d36)
