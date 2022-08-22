@@ -3,5 +3,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "userIgnoreFilters": [
+    "*.png"
+  ]
 }
