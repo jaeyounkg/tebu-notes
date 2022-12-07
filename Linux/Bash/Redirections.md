@@ -1,4 +1,3 @@
-# Redirections
 ```
 echo test > afile.txt
 ```

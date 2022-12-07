@@ -1,1 +1,0 @@
-**Permission denied error** dunno how to fix this actually, but I could get around it by executing wally as root

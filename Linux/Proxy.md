@@ -1,5 +1,5 @@
 # Use Git with SSH over Proxy
-Put this in `~/.ssh/config`. [ref](https://adangel.org/2020/10/15/github-behind-proxy/)
+Put this in `~/.ssh/config`. [Ref](https://adangel.org/2020/10/15/github-behind-proxy/)
 ```
 Host github.com
 	Hostname ssh.github.com

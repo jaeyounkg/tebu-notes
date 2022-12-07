@@ -1,0 +1,9 @@
+- `-eq`, `-ne`, `-lt`, `-gt`, `-le`, `-ge`
+- `!`: negate
+- `=`, `==`: same (at least in bash)
+- `=~`: test string against a regex pattern
+- `-z`: check if variable is null
+- `-d`: check if directory exists
+- `-e`: check if file/directory exists
+- `-r`, `-w`, `-x`: check if file has read/write/execute access
+- `-s`: check if size of the file > 0
