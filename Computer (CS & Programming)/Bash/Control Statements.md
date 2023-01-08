@@ -20,6 +20,7 @@ done
 ```bash
 for v in file1 file2
 for v in $(ls)
+for v in "${files}" # the double quotes prevent breaking strings at spaces
 for v in ./*.md
 do
 	cat "$v"

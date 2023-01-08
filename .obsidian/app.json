@@ -6,5 +6,6 @@
   "livePreview": true,
   "userIgnoreFilters": [
     "*.png"
-  ]
+  ],
+  "attachmentFolderPath": "Attachments"
 }
