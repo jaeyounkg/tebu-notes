@@ -1,3 +1,7 @@
+---
+Yi, Cheng, Jianzhong Wang, Ning Cheng, Shiyu Zhou, and Bo Xu. “Applying Wav2vec2.0 to Speech Recognition in Various Low-Resource Languages.” _ArXiv:2012.12121 [Cs]_, January 17, 2021. [http://arxiv.org/abs/2012.12121](http://arxiv.org/abs/2012.12121).
+---
+
 # Experiment
 
 ## Settings

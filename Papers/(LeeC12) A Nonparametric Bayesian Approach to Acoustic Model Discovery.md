@@ -1,4 +1,6 @@
-(Lee and Glass, 2012) A Nonparametric Bayesian Approach to Acoustic Model Discovery
+---
+Lee, Chia-ying, and James Glass. “A Nonparametric Bayesian Approach to Acoustic Model Discovery,” 2012, 10.
+---
 
 # Summary
 - Traditionally, unsupervised [[Acoustic Model]] has been broken down to **3 sequential and independent sub-tasks**: segmentation, clustering segments, modeling each cluster's acoustic patterns
