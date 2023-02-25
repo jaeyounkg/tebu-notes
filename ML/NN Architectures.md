@@ -1,0 +1,3 @@
+- [From Autoencoder to Beta-VAE](https://lilianweng.github.io/posts/2018-08-12-vae/)
+- [Flow-based Deep Generative Models](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
+- [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)

@@ -33,12 +33,12 @@
     }
   ],
   "editor:toggle-bold": [],
-  "app:delete-file": [
+  "file-explorer:move-file": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Backspace"
+      "key": "M"
     }
   ]
 }

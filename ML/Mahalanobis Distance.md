@@ -1,5 +1,3 @@
-# Mahalanobis distance
-
 $$
     (\mathbf{x}-\boldsymbol{\mu})
         ^\text{T}

@@ -1,3 +1,4 @@
+#
 ![Image](https://miro.medium.com/max/1204/1*9OsQV0PqM2juaOtGqoRISw.jpeg)
 
 A Bayesian network is a **directed acyclic graph** in which

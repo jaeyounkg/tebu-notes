@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4fa75aed55eca519","x":-330,"y":-393,"width":400,"height":400,"type":"file","file":"ML/Gaussian Distribution.md"},
+		{"id":"cea0d242c8767b2e","x":254,"y":-208,"width":250,"height":215,"type":"text","text":"haha this\nis a card\n[[Wisdoms]]"},
+		{"id":"27c401582925b272","x":164,"y":206,"width":250,"height":60,"type":"text","text":"rstaareistnsret"}
+	],
+	"edges":[
+		{"id":"b4e80c0908b4a3bc","fromNode":"4fa75aed55eca519","fromSide":"right","toNode":"cea0d242c8767b2e","toSide":"left"},
+		{"id":"8e3e8245b24f2c36","fromNode":"4fa75aed55eca519","fromSide":"bottom","toNode":"27c401582925b272","toSide":"top"}
+	]
+}
