@@ -1,4 +1,4 @@
-```
+```javascript
 function DEEPL(text, sourceLang, targetLang) {
   if (text == "") {
     return "";

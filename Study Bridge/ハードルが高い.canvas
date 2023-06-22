@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"text","text":"難しく感じる","id":"1a20d98b7517dae1","x":250,"y":10,"width":250,"height":60},
+		{"type":"text","text":"時間がかかる","id":"d595fbca5d7e3681","x":250,"y":-70,"width":250,"height":60},
+		{"type":"text","text":"本当にムズイ","id":"ec2dc09cf21c1f81","x":250,"y":-150,"width":250,"height":60},
+		{"type":"text","text":"場所","id":"639106749bdd54ae","x":250,"y":-230,"width":250,"height":60},
+		{"type":"text","text":"お金","id":"a41b3bad1d088039","x":250,"y":-310,"width":250,"height":60},
+		{"type":"text","text":"ハードルが高い","id":"635404abcdcd0cff","x":-100,"y":-150,"width":250,"height":60},
+		{"type":"text","text":"自分の能力を過小評価してしまう","id":"fa3e04fc2476bf96","x":600,"y":-50,"width":250,"height":60},
+		{"type":"text","text":"褒めてくれる人がいない","id":"13af99daa542d453","x":1240,"y":130,"width":250,"height":60},
+		{"type":"text","text":"友達も余裕がない","id":"2c9edd56531cf309","x":1560,"y":80,"width":250,"height":60},
+		{"type":"text","text":"友達はプライドが邪魔するし、教師は忙しい、親は人による","id":"be90d7db5e02f453","x":1560,"y":160,"width":250,"height":90},
+		{"type":"text","text":"課題を正確に理解できていない","id":"2104c7024a8a31d4","x":600,"y":240,"width":250,"height":60},
+		{"type":"text","text":"トライ & エラーを繰り返していない","id":"5c7d931d0ae3c698","x":940,"y":230,"width":250,"height":60},
+		{"type":"text","text":"エラーから学んでいない","id":"20c3bdcac1a5d245","x":940,"y":310,"width":250,"height":60},
+		{"type":"text","text":"課題に興味がない？","id":"1723e507d2b3947b","x":940,"y":390,"width":250,"height":60},
+		{"type":"text","text":"自分で考えて勉強する習慣・発想がない","id":"fa8a50a56d0540fc","x":1240,"y":390,"width":250,"height":60},
+		{"type":"text","text":"学校・塾が自主勉強までの指導・管理をしない","id":"fb9958ed538671d8","x":1560,"y":390,"width":250,"height":60},
+		{"type":"text","text":"過大評価してから周りから浮く","id":"afef3fe3cb559f69","x":940,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"周りがエグイ","id":"c4351e2d716fd564","x":940,"y":-10,"width":250,"height":60},
+		{"type":"text","text":"成功体験の不足","id":"70d3990d7a711c51","x":940,"y":80,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"3ddd01ed17f2eba6","fromNode":"635404abcdcd0cff","fromSide":"right","toNode":"a41b3bad1d088039","toSide":"left"},
+		{"id":"0206023cd6379ed5","fromNode":"635404abcdcd0cff","fromSide":"right","toNode":"639106749bdd54ae","toSide":"left"},
+		{"id":"8481e06a96b8d5c3","fromNode":"635404abcdcd0cff","fromSide":"right","toNode":"ec2dc09cf21c1f81","toSide":"left"},
+		{"id":"74f8be740a427a5d","fromNode":"635404abcdcd0cff","fromSide":"right","toNode":"d595fbca5d7e3681","toSide":"left"},
+		{"id":"cedb011634faa431","fromNode":"635404abcdcd0cff","fromSide":"right","toNode":"1a20d98b7517dae1","toSide":"left"},
+		{"id":"9c594af83cfe75db","fromNode":"1a20d98b7517dae1","fromSide":"right","toNode":"fa3e04fc2476bf96","toSide":"left"},
+		{"id":"f2abd5ea38a5250a","fromNode":"1a20d98b7517dae1","fromSide":"right","toNode":"2104c7024a8a31d4","toSide":"left"},
+		{"id":"cb610a30af10e26e","fromNode":"fa3e04fc2476bf96","fromSide":"right","toNode":"afef3fe3cb559f69","toSide":"left"},
+		{"id":"57575cbd137301d4","fromNode":"fa3e04fc2476bf96","fromSide":"right","toNode":"c4351e2d716fd564","toSide":"left"},
+		{"id":"8be25bed1b2fe2ee","fromNode":"fa3e04fc2476bf96","fromSide":"right","toNode":"70d3990d7a711c51","toSide":"left"},
+		{"id":"a5607b0129789b6d","fromNode":"70d3990d7a711c51","fromSide":"right","toNode":"13af99daa542d453","toSide":"left"},
+		{"id":"a5ec13552cb668f6","fromNode":"13af99daa542d453","fromSide":"right","toNode":"2c9edd56531cf309","toSide":"left"},
+		{"id":"8c73e55d8fda86e2","fromNode":"13af99daa542d453","fromSide":"right","toNode":"be90d7db5e02f453","toSide":"left"},
+		{"id":"e7fb9f522deffcf9","fromNode":"2104c7024a8a31d4","fromSide":"right","toNode":"5c7d931d0ae3c698","toSide":"left"},
+		{"id":"12cf98c9bc12a01f","fromNode":"2104c7024a8a31d4","fromSide":"right","toNode":"20c3bdcac1a5d245","toSide":"left"},
+		{"id":"498dc150abb03e35","fromNode":"2104c7024a8a31d4","fromSide":"right","toNode":"1723e507d2b3947b","toSide":"left"},
+		{"id":"8e40e85a4563a5c9","fromNode":"1723e507d2b3947b","fromSide":"right","toNode":"fa8a50a56d0540fc","toSide":"left"},
+		{"id":"8bafd3a872b704d7","fromNode":"fa8a50a56d0540fc","fromSide":"right","toNode":"fb9958ed538671d8","toSide":"left"}
+	]
+}

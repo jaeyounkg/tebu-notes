@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"Student","id":"c3e8508e5ff31c08","x":-125,"y":-160,"width":205,"height":200},
+		{"type":"text","text":"Company","id":"56a2a7b32d44c210","x":360,"y":-160,"width":242,"height":200},
+		{"type":"text","text":"University","id":"cabd2621fba6e88a","x":60,"y":180,"width":242,"height":200}
+	],
+	"edges":[]
+}
