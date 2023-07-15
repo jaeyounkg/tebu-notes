@@ -4,7 +4,7 @@ aliases: ["AFs", "AF", "articulatory attribute", "articulatory feature"]
 
 #ASR #Low-resource
 
-# How AFs have been used in ASR
+# ASR Papers Using Articulatory Features
 - [[(MetF02) A Flexible Stream Architecture for ASR Using Articulatory Features|🔬MetzeF02]] proposed to use AFs in addition to the [[Conventional ASR|regular ASR pipeline]] in order to make systems more robust in terms of speaker or channel variability
 - [[(StüS03) Multilingual Articulatory Features 1|🔬StükerS03]] showed that AFs can be recognized across different languages
 - [[LeeC_2007_An overview on automatic speech attribute transcription (ASAT).pdf|ASAT Paper (07')]] describes ASAT architecture

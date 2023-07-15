@@ -9,3 +9,10 @@
 
 ## Resources
 - [[🔬PanPhon - A Resource for Mapping IPA Segments to Articulatory Feature Vectors|🔬PanPhon]] IPA symbol -> [[Articulatory Features|AF]] mappings
+
+# 🔬 Using Adversarial Learning
+- [[🔬DinF23 Improved Self-Supervised Multilingual Speech Representation Learning Combined With Auxiliary Language Information (ICASSP23')|🔬DinF(ICSP23)]] Language-adversarial pre-training based on [[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|XLSR]]
+- [[🔬YiJ19 Language-Adversarial Transfer Learning for Low-Resource Speech Recognition|🔬YiJ19]] Language-adversarial pre-training (BiLSTM)
+
+# 🔬 Using Adaptive Tuning
+- [[🔬DinF23 Improved Self-Supervised Multilingual Speech Representation Learning Combined With Auxiliary Language Information (ICASSP23')|🔬DinF(ICSP23)]]

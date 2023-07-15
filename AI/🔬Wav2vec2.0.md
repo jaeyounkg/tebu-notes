@@ -1,4 +1,4 @@
-Self-supervised speech representation model trained in a similar fashion to [[BERT]], presented in [[(BaeA20) wav2vec 2.0 A Framework for Self-Supervised Learning of Speech Representations|🔬wav2vec2.0]]
+Self-supervised speech representation model trained in a similar fashion to [[BERT]]
 
 ![[Screenshot 2023-02-14 at 2.34.46.png]]
 
@@ -26,7 +26,7 @@ Self-supervised speech representation model trained in a similar fashion to [[BE
 | 100h | 50K |
 | 960h | 320K |
 
-[[(BabA21) XLS-R Self-supervised Cross-lingual Speech Representation Learning at Scale|🔬XLS-R]]
+[[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|🔬XLS-R]]
 - Large batch sizes are very effective
 - Masking probability between 30-75%
 
