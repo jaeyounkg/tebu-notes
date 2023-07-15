@@ -2,6 +2,7 @@
 aliases: 🔬FenS(IS23)
 cite: "Feng, Siyuan, Ming Tu, Rui Xia, Chuanzeng Huang, and Yuxuan Wang. “Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition.” arXiv, May 19, 2023. [http://arxiv.org/abs/2305.11569](http://arxiv.org/abs/2305.11569)."
 ---
+#ASR #Low-resource 
 
 [[FengS_2023_Language-Universal Phonetic Representation in Multilingual Speech Pretraining.pdf|PDF Link]]
 
@@ -31,3 +32,4 @@ cite: "Feng, Siyuan, Ming Tu, Rui Xia, Chuanzeng Huang, and Yuxuan Wang. “Lang
 
 🙋‍♂️ Maybe they should've separated languages in training & test sets?
 🙋‍♂️ Can the IPA predictor really be applied effectively to unseen languages?
+🙋‍♂️ (Sensei) Still not ideal because IPA targets are only used in pretraining, not in target training stage

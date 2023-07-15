@@ -1,0 +1,11 @@
+# 🔬 Using Articulatory Features
+- [[🔬FenS23 Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition (IS23')|🔬FenS(IS23)]] Multilingual HuBERT pretraining with IPA labels
+- [[🔬ZhuC21 Multilingual and Cross-lingual Speech Recognition Using Phonological Vector-based Phone Embeddings (ASRU21')|🔬ZhuC(ASRU21)]] Gave a fancy name to using $sim(p_i, h_t)$ to compute final logits
+	- $p_i$: $i$th phoneme embedding
+	- $h_t$: model output at time $t$
+- [[🔬XuQ22 Simple and Effective Zero-shot Cross-lingual Phoneme Recognition (Meta, IS22')|🔬XuQ(IS22)]] Zero-shot, use Hamming distance between [[Articulatory Features|AF]] vectors
+- [[🔬LiX20 Towards Zero-shot Learning for Automatic Phonemic Transcription (AAAI20')|🔬LiX(AAAI20)]] Zero-shot, use frozen linear transformation from attributes to phonemes
+- [[🔬MulM16 Towards Improving Low-Resource Speech Recognition Using Articulatory and Language Features|🔬MüllerM16]] Using [[Articulatory Features|AF]] & language feature vectors
+
+## Resources
+- [[🔬PanPhon - A Resource for Mapping IPA Segments to Articulatory Feature Vectors|🔬PanPhon]] IPA symbol -> [[Articulatory Features|AF]] mappings

@@ -6,4 +6,4 @@ cite: "Mitra, Vikramjit, Wen Wang, Chris Bartels, Horacio Franco, and Dimitra Ve
 
 [[MitraV_2018_Articulatory Information and Multiview Features for Large Vocabulary Continuous.pdf]]
 
-Articulatory features are estimated using CNN systems in the same way as [[(MitV17) Hybrid convolutional neural networks for articulatory and acoustic information based speech recognition|🔬MitraV17]]
+Articulatory features are estimated using CNN systems in the same way as [[🔬MitV17 Hybrid convolutional neural networks for articulatory and acoustic information based speech recognition|🔬MitraV17]]

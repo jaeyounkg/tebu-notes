@@ -1,2 +1,0 @@
-- It's difficult to make general statements about the effects of hyperparameters
-	- As behavior depends on both dataset and model

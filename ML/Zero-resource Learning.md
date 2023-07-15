@@ -1,5 +1,0 @@
-- Contrastive Learning  
-- Contrastive Predictive Coding  
-- CPC v2?  
-- data2vec  
-- Unsupervised Speech Recognition

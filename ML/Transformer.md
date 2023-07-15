@@ -1,2 +1,0 @@
-- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-- [Let's Understand The Model Architecture](https://kikaben.com/transformers-encoder-decoder/)

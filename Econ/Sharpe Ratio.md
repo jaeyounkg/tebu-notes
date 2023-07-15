@@ -1,3 +1,7 @@
+---
+aliases: ["Sharpe ratio"]
+---
+
 $$
 S_a = \frac{E[R_a - R_b]}{\sigma_a}
 $$
