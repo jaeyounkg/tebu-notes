@@ -1,7 +1,7 @@
 ---
 alias: 🔬PanPhon
 ---
-#ASR #Low-resource 
+#ASR #Low-resource #Phonetic #Articulatory
 
 A database relating 5000+ IPA segments (simple & complex) in terms of 21 [[Articulatory Features|AF]]s & a Python package to interact with it
 

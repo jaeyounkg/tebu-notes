@@ -1,7 +1,7 @@
 ---
 alias: 🔬DinF(ICSP23)
 ---
-#ASR #Low-resource 
+#ASR #Low-resource #Adversarial #Adapter
 
 Try 4 different language-info-augmented approaches for multilingual [[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|XLSR]] pretraining (XLSR is pretrained from scratch)
 - Language-[[Adversarial Learning|adversarial]] (LA): use [[Gradient Reversal Layer]]
@@ -16,7 +16,7 @@ Transformer encoder in XLSR is replaced by Conformer & filterbank features are u
 - Adapters are significantly more effective
 
 # Experiments & Results
-Using internal datasets
+Used internal datasets. Pre-training ran on 32 A100 GPUs for 400k steps.
 
 ![[Pasted image 20230715220602.png]]
 

@@ -13,6 +13,7 @@
 # 🔬 Using Adversarial Learning
 - [[🔬DinF23 Improved Self-Supervised Multilingual Speech Representation Learning Combined With Auxiliary Language Information (ICASSP23')|🔬DinF(ICSP23)]] Language-adversarial pre-training based on [[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|XLSR]]
 - [[🔬YiJ19 Language-Adversarial Transfer Learning for Low-Resource Speech Recognition|🔬YiJ19]] Language-adversarial pre-training (BiLSTM)
+- [[🔬AdaO19 Massively Multilingual Adversarial Speech Recognition (NAACL19')|🔬AdaO(NA19)]] Massively multilingual + adversarial learning
 
 # 🔬 Using Adaptive Tuning
 - [[🔬DinF23 Improved Self-Supervised Multilingual Speech Representation Learning Combined With Auxiliary Language Information (ICASSP23')|🔬DinF(ICSP23)]]

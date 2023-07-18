@@ -2,7 +2,7 @@
 aliases: GoogleUSM
 cite: "Zhang, Yu, Wei Han, James Qin, Yongqiang Wang, Ankur Bapna, Zhehuai Chen, Nanxin Chen, et al. “Google USM: Scaling Automatic Speech Recognition Beyond 100 Languages.” arXiv, March 2, 2023. [https://doi.org/10.48550/arXiv.2303.01037](https://doi.org/10.48550/arXiv.2303.01037)."
 ---
-#ASR 
+#ASR #MassivelyMultilingual
 
 # Datasets
 | name     | # hours | # langs | content                                                                 |

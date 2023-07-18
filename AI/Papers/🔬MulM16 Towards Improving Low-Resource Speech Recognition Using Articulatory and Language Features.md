@@ -2,7 +2,7 @@
 aliases: 🔬MulM16
 cite: "Müller, Markus, Sebastian Stüker, and Alex Waibel. “Towards Improving Low-Resource Speech Recognition Using Articulatory and Language Features.” In _Proceedings of the 13th International Conference on Spoken Language Translation_. Seattle, Washington D.C: International Workshop on Spoken Language Translation, 2016. [https://aclanthology.org/2016.iwslt-1.9](https://aclanthology.org/2016.iwslt-1.9)."
 ---
-#ASR #Low-resource 
+#ASR #Low-resource #Phonetic #Articulatory
 
 [[MüllerM_2016_Towards Improving Low-Resource Speech Recognition Using Articulatory and.pdf|PDF Link]]
 

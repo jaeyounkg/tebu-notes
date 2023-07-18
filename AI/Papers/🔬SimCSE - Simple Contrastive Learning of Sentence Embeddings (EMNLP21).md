@@ -2,6 +2,7 @@
 alias: 🔬SimCSE
 cite: "Gao, Tianyu, Xingcheng Yao, and Danqi Chen. “SimCSE: Simple Contrastive Learning of Sentence Embeddings.” arXiv, May 18, 2022. [https://doi.org/10.48550/arXiv.2104.08821](https://doi.org/10.48550/arXiv.2104.08821)."
 ---
+#NLP #Contrastive
 
 [[Contrastive Learning]]
 

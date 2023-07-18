@@ -2,7 +2,7 @@
 aliases: 🔬FenS(IS23)
 cite: "Feng, Siyuan, Ming Tu, Rui Xia, Chuanzeng Huang, and Yuxuan Wang. “Language-Universal Phonetic Representation in Multilingual Speech Pretraining for Low-Resource Speech Recognition.” arXiv, May 19, 2023. [http://arxiv.org/abs/2305.11569](http://arxiv.org/abs/2305.11569)."
 ---
-#ASR #Low-resource 
+#ASR #Low-resource #Phonetic
 
 [[FengS_2023_Language-Universal Phonetic Representation in Multilingual Speech Pretraining.pdf|PDF Link]]
 

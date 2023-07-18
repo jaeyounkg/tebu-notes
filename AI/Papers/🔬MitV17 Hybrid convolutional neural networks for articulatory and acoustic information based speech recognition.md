@@ -1,7 +1,7 @@
 ---
 aliases: 🔬MitraV17
 ---
-#ASR 
+#ASR #Phonetic #Articulatory
 
 [[MitraV_2017_Hybrid convolutional neural networks for articulatory and acoustic information.pdf]]
 

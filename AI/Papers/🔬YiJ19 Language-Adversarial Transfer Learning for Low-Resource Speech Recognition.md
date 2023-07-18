@@ -1,6 +1,7 @@
 ---
 aliases: 🔬YiJ19
 ---
+#ASR #Low-resource #Adversarial
 
 Introduce [[Gradient Reversal Layer]] to learn language-invariant speech representations
 

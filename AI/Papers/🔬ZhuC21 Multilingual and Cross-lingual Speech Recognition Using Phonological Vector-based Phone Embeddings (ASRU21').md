@@ -1,6 +1,7 @@
 ---
 alias: 🔬ZhuC(ASRU21)
 ---
+#ASR #Low-resource #Phonetic
 
 # Summary
 - Compute _phonetic embedding vectors_ $e_i$ (for phone $i$) from _phonological-vectors_ $p_i\in \mathbb{R}^{51}$ (# of phonological features to be considered)

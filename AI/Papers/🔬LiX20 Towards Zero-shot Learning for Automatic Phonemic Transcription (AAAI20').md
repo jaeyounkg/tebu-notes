@@ -2,7 +2,7 @@
 aliases: 🔬LiX(AAAI20)
 cite: "Li, Xinjian, Siddharth Dalmia, David Mortensen, Juncheng Li, Alan Black, and Florian Metze. “Towards Zero-Shot Learning for Automatic Phonemic Transcription.” _Proceedings of the AAAI Conference on Artificial Intelligence_ 34, no. 05 (April 3, 2020): 8261–68. [https://doi.org/10.1609/aaai.v34i05.6341](https://doi.org/10.1609/aaai.v34i05.6341)."
 ---
-#ASR  #Low-resource 
+#ASR  #Low-resource #Zero-shot #Phonetic #Articulatory
 
 [[LiX_2020_Towards Zero-Shot Learning for Automatic Phonemic Transcription.pdf|PDF Link]]
 
