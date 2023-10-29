@@ -1,13 +1,14 @@
 ---
-alias: 🔬DinF(ICSP23)
+aliases:
+  - 🔬DinF(ICSP23)
 ---
 #ASR #Low-resource #Adversarial #Adapter
 
-Try 4 different language-info-augmented approaches for multilingual [[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|XLSR]] pretraining (XLSR is pretrained from scratch)
+Try 4 different language-info-augmented approaches for multilingual [[🔬XLS-R - Self-supervised Cross-lingual Speech Representation Learning at Scale|XLSR]] pretraining (**XLSR is pretrained from scratch**)
 - Language-[[Adversarial Learning|adversarial]] (LA): use [[Gradient Reversal Layer]]
 - Language embeddings (LE): $\tilde{h}_i^l = h_i^l + embedding(l)$, embeddings are trainable params
 - Language specific adapters (LSA)
-- Language specific adaptive weights (LSAW)
+- [[🔬PhaN21 Efficient Weight Factorization for Multilingual Speech Recognition (Interspeech21')|Language specific adaptive weight]] (LSAW)
 
 Transformer encoder in XLSR is replaced by Conformer & filterbank features are used
 

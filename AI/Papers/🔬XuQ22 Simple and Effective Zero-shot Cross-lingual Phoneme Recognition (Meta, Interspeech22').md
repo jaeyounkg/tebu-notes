@@ -1,5 +1,5 @@
 ---
-aliases: 🔬XuQ(IS22)
+aliases: ["🔬XuQ(Meta, IS22)"]
 cite: "Xu, Qiantong, Alexei Baevski, and Michael Auli. “Simple and Effective Zero-Shot Cross-Lingual Phoneme Recognition.” In _Interspeech 2022_, 2113–17. ISCA, 2022. [https://doi.org/10.21437/Interspeech.2022-60](https://doi.org/10.21437/Interspeech.2022-60)."
 ---
 #ASR #Low-resource #Zero-shot #Phonetic #Articulatory

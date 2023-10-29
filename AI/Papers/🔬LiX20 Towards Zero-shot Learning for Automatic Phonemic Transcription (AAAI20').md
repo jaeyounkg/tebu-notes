@@ -54,4 +54,4 @@ For a new target language with $z'$ phonemes, create and use a new signature mat
 - Average PER(%) improved, as # training languages increased
 
 # Related to
-[[🔬XuQ22 Simple and Effective Zero-shot Cross-lingual Phoneme Recognition (Meta, IS22')|🔬XuQ(IS22)]]
+[[🔬XuQ22 Simple and Effective Zero-shot Cross-lingual Phoneme Recognition (Meta, Interspeech22')|🔬XuQ(IS22)]]
